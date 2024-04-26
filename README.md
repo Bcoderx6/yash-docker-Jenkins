@@ -1,5 +1,1 @@
-This beginner project focuses on building a streamlined Continuous Integration (CI) pipeline using Jenkins, SonarQube, and Docker. Additionally, it integrates with cloud providers like Microsoft Azure and AWS for deployment. You'll learn core DevOps principles, automation, and containerization while enhancing code quality through static analysis. By completing this project, you'll gain practical experience in CI/CD practices and cloud integration, setting a solid foundation for your journey into the world of DevOps.
-
-
-
-
+Through this beginner project, I mastered building a smooth Continuous Integration (CI) pipeline using Jenkins, SonarQube, and Docker. I also learned how to connect with cloud platforms like Microsoft Azure and AWS for deploying my projects. By focusing on DevOps principles, automation, and containerization, I enhanced code quality with static analysis. This hands-on experience in CI/CD practices and cloud integration sets a strong foundation for my journey into the world of DevOps.
